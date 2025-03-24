@@ -1,15 +1,17 @@
-## Hi! I'm Nick Swetlin.
+&ensp;
+
+## I'm Nick Swetlin.
 
 ... a **Data Scientist** with an extensive background in **Public Speaking and Communications.**
 
-<div style='align-items=center'>
-    <img src="./assets/imgs/myself.jpg" width="400" height="400">
-</div>
+
+<img src="./assets/imgs/myself.jpg" width="400" height="400" style='display=flex; flex-direction=row; align-items=center; justify-content=center;' alt='A picture of myself.'>
+
 
 
 Currently, I'm completing my **B.S. in Data Science @ UCSD** (University of California, San Diego); and I'll soon pursue my (part-time) **M.S. in Computer Science @ UCSD**!
 
-I'm invested in work on the level of **human interaction -- project management, consulting, creative projects**; it's in my blood as a **tutor**, as a **professional events organizer**, as an **orator**. 
+I'm invested in work on the level of **human interaction -- project management, consulting, podium talks**; it's in my blood as a **tutor**, as a **professional events organizer**, as an **orator**. 
 
 I view myself as someone who **makes technology and theory explainable.**
 
