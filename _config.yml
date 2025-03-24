@@ -1,12 +1,5 @@
-
-
-title: Nick Swetlin
-email: nickswetlin@gmail.com
-description: >-
-  Very good my site is!
-github_username: nickswetlin
-
-# Build settings
-theme: minima
+title: Nick Swetllin
+description: "My personal website."
+remote_theme: daattali/beautiful-jekyll
 plugins:
-  - jekyll-feed
+- jekyll-remote-theme # add this line to the plugins list if you already have one
