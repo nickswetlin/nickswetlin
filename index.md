@@ -1,6 +1,11 @@
-# Hi! I'm Nick Swetlin, a **Data Scientist** with an extensive background in **Public Speaking and Communications.**
 
-![(A picture of myself)](./assets/imgs/myself)
+
+
+# Hi! I'm Nick Swetlin.
+
+... a **Data Scientist** with an extensive background in **Public Speaking and Communications.**
+
+![(A picture of myself)](./assets/imgs/myself.jpg)
 
 Currently, I'm completing my **B.S. in Data Science @ UCSD** (University of California, San Diego); and I'll soon pursue my (part-time) **M.S. in Computer Science @ UCSD**!
 
