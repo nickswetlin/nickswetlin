@@ -2,8 +2,8 @@
 
 ... a **Data Scientist** with an extensive background in **Public Speaking and Communications.**
 
-<div style='justify-content=center'>
-    <img src="./assets/imgs/myself.jpg" width="200" height="200">
+<div style='align-items=center'>
+    <img src="./assets/imgs/myself.jpg" width="400" height="400">
 </div>
 
 

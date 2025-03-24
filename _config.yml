@@ -13,10 +13,9 @@ plugins:
 ###############################################
 
 navbar-links:
-  About Me: "index"
   Experience: "experience"
   Projects: "projects"
-  Resume: www.google.com
+  Resume: "assets/docs/Nick_Swetlin_Resume.pdf"
   
 
 ################
