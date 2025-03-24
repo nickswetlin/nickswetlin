@@ -13,9 +13,9 @@ plugins:
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
-  Experience: "experience"
-  Projects: "projects"
+  About Me: "index.md"
+  Experience: "experience.md"
+  Projects: "projects.md"
   
 
 ################
