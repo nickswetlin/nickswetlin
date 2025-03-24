@@ -2,7 +2,7 @@ title: Nick Swetlin
 author: Nick Swetlin # shown in footer
 
 description: "My personal website."
-remote_theme: daattali/beautiful-jekyll
+remote_theme: nrandecker/particle
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 
