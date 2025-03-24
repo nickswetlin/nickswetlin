@@ -1,8 +1,9 @@
 Hi! I'm Nick Swetlin.
+---
 
 ... a **Data Scientist** with an extensive background in **Public Speaking and Communications.**
 
-![(A picture of myself)](./assets/imgs/myself.jpg)
+! <img src="./assets/imgs/myself.jpg" width="200" height="200">
 
 Currently, I'm completing my **B.S. in Data Science @ UCSD** (University of California, San Diego); and I'll soon pursue my (part-time) **M.S. in Computer Science @ UCSD**!
 
@@ -20,9 +21,10 @@ In the past that's looked like:
 - Speaking at the **podium for 5+ years** to change minds as a debater, former musician panelist, academic tutor, and professional events host.
 
 ... but there's obviously much more to the story than that. 
+
 ---
 
-### Currently Learning About:
+### Learning About:
 - 📚"Art of War" by Sun Tzu
 - ➕"Principles of Quantum Mechanics" by Ramamurti Shankar
 

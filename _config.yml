@@ -13,9 +13,10 @@ plugins:
 ###############################################
 
 navbar-links:
-  About Me: "index.md"
-  Experience: "experience.md"
-  Projects: "projects.md"
+  About Me: "index"
+  Experience: "experience"
+  Projects: "projects"
+  Resume: www.google.com
   
 
 ################
